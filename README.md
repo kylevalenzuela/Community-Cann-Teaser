@@ -1,6 +1,8 @@
-Community Cann Teaser (Landing page)
-====================================
+Community Cann (Landing page)
+=============================
 
-Designed using <a href="http://foundation.zurb.com/">Foundation</a> framwork.  
+One page website for <a href="http://communitycann.com">Community Cann Cooperative</a>
+
+Designed using <a href="http://foundation.zurb.com/">Foundation</a> framework.  
 
 
